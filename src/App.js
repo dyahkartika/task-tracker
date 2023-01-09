@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import Home from "./pages/Home.jsx";
 import { Flex } from "@chakra-ui/react";
 function App() {
